@@ -1,0 +1,3 @@
+vhdl work "arraypack.vhd"
+vhdl work "inputs.vhd"
+vhdl work "ControlUnit.vhd"

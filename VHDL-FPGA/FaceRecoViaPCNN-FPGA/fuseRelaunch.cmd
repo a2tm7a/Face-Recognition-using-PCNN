@@ -1,0 +1,1 @@
+-intstyle "ise" -incremental -o "E:/14.7/ISE_DS/files/FaceRecoViaPCNN/tb_controlUnit_isim_beh.exe" -prj "E:/14.7/ISE_DS/files/FaceRecoViaPCNN/tb_controlUnit_beh.prj" "work.tb_controlUnit" 

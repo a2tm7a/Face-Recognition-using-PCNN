@@ -1,0 +1,4 @@
+vhdl isim_temp "arraypack.vhd"
+vhdl isim_temp "inputs.vhd"
+vhdl isim_temp "ControlUnit.vhd"
+vhdl isim_temp "tb_ControlUnit5.vhd"

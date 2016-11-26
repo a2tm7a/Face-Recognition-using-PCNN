@@ -1,0 +1,13 @@
+NET image_number[7] LOC = "F9" | IOSTANDARD = LVTTL | SLEW = SLOW | DRIVE = 8 ; 
+NET image_number[6] LOC = "E9" | IOSTANDARD = LVTTL | SLEW = SLOW | DRIVE = 8 ;
+NET image_number[5] LOC = "D11" | IOSTANDARD = LVTTL | SLEW = SLOW | DRIVE = 8 ; 
+NET image_number[4] LOC = "C11" | IOSTANDARD = LVTTL | SLEW = SLOW | DRIVE = 8 ; 
+NET image_number[3] LOC = "F11" | IOSTANDARD = LVTTL | SLEW = SLOW | DRIVE = 8 ; 
+NET image_number[2] LOC = "E11" | IOSTANDARD = LVTTL | SLEW = SLOW | DRIVE = 8 ; 
+NET image_number[1] LOC = "E12" | IOSTANDARD = LVTTL | SLEW = SLOW | DRIVE = 8 ; 
+NET image_number[0] LOC = "F12" | IOSTANDARD = LVTTL | SLEW = SLOW | DRIVE = 8 ;
+NET "clk" LOC = "C9"  | IOSTANDARD = LVCMOS33 ; 
+NET test_image[0] LOC = "L13" | IOSTANDARD = LVTTL | PULLUP ; 
+NET test_image[1] LOC = "L14" | IOSTANDARD = LVTTL | PULLUP ; 
+#NET test_image[2] LOC = "H18" | IOSTANDARD = LVTTL | PULLUP ; 
+#NET test_image[3] LOC = "N17" | IOSTANDARD = LVTTL | PULLUP ;

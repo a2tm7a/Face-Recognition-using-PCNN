@@ -1,0 +1,103 @@
+xst -intstyle ise -ifn "E:/14.7/ISE_DS/files/FaceRecoViaPCNN/ControlUnit.xst" -ofn "E:/14.7/ISE_DS/files/FaceRecoViaPCNN/ControlUnit.syr" 
+xst -intstyle ise -ifn "E:/14.7/ISE_DS/files/FaceRecoViaPCNN/ControlUnit.xst" -ofn "E:/14.7/ISE_DS/files/FaceRecoViaPCNN/ControlUnit.syr" 
+xst -intstyle ise -ifn "E:/14.7/ISE_DS/files/FaceRecoViaPCNN/ControlUnit.xst" -ofn "E:/14.7/ISE_DS/files/FaceRecoViaPCNN/ControlUnit.syr" 
+netgen -intstyle ise -ar Structure -tm ControlUnit -w -dir netgen/synthesis -ofmt vhdl -sim ControlUnit.ngc ControlUnit_synthesis.vhd 
+xst -intstyle ise -ifn "E:/14.7/ISE_DS/files/FaceRecoViaPCNN/ControlUnit.xst" -ofn "E:/14.7/ISE_DS/files/FaceRecoViaPCNN/ControlUnit.syr" 
+xst -intstyle ise -ifn "E:/14.7/ISE_DS/files/FaceRecoViaPCNN/ControlUnit.xst" -ofn "E:/14.7/ISE_DS/files/FaceRecoViaPCNN/ControlUnit.syr" 
+xst -intstyle ise -ifn "E:/14.7/ISE_DS/files/FaceRecoViaPCNN/ControlUnit.xst" -ofn "E:/14.7/ISE_DS/files/FaceRecoViaPCNN/ControlUnit.syr" 
+xst -intstyle ise -ifn "E:/14.7/ISE_DS/files/FaceRecoViaPCNN/ControlUnit.xst" -ofn "E:/14.7/ISE_DS/files/FaceRecoViaPCNN/ControlUnit.syr" 
+xst -intstyle ise -ifn "E:/14.7/ISE_DS/files/FaceRecoViaPCNN/ControlUnit.xst" -ofn "E:/14.7/ISE_DS/files/FaceRecoViaPCNN/ControlUnit.syr" 
+xst -intstyle ise -ifn "E:/14.7/ISE_DS/files/FaceRecoViaPCNN/ControlUnit.xst" -ofn "E:/14.7/ISE_DS/files/FaceRecoViaPCNN/ControlUnit.syr" 
+xst -intstyle ise -ifn "E:/14.7/ISE_DS/files/FaceRecoViaPCNN/ControlUnit.xst" -ofn "E:/14.7/ISE_DS/files/FaceRecoViaPCNN/ControlUnit.syr" 
+xst -intstyle ise -ifn "E:/14.7/ISE_DS/files/FaceRecoViaPCNN/ControlUnit.xst" -ofn "E:/14.7/ISE_DS/files/FaceRecoViaPCNN/ControlUnit.syr" 
+xst -intstyle ise -ifn "E:/14.7/ISE_DS/files/FaceRecoViaPCNN/ControlUnit.xst" -ofn "E:/14.7/ISE_DS/files/FaceRecoViaPCNN/ControlUnit.syr" 
+netgen -intstyle ise -ar Structure -tm ControlUnit -w -dir netgen/synthesis -ofmt vhdl -sim ControlUnit.ngc ControlUnit_synthesis.vhd 
+xst -intstyle ise -ifn "E:/14.7/ISE_DS/files/FaceRecoViaPCNN/ControlUnit.xst" -ofn "E:/14.7/ISE_DS/files/FaceRecoViaPCNN/ControlUnit.syr" 
+xst -intstyle ise -ifn "E:/14.7/ISE_DS/files/FaceRecoViaPCNN/ControlUnit.xst" -ofn "E:/14.7/ISE_DS/files/FaceRecoViaPCNN/ControlUnit.syr" 
+netgen -intstyle ise -ar Structure -tm ControlUnit -w -dir netgen/synthesis -ofmt vhdl -sim ControlUnit.ngc ControlUnit_synthesis.vhd 
+ngdbuild -intstyle ise -dd _ngo -nt timestamp -uc ucf_ControlUnit.ucf -p xc3s500e-fg320-4 ControlUnit.ngc ControlUnit.ngd  
+map -intstyle ise -p xc3s500e-fg320-4 -cm area -ir off -pr off -c 100 -o ControlUnit_map.ncd ControlUnit.ngd ControlUnit.pcf 
+xst -intstyle ise -ifn "E:/14.7/ISE_DS/files/FaceRecoViaPCNN/ControlUnit.xst" -ofn "E:/14.7/ISE_DS/files/FaceRecoViaPCNN/ControlUnit.syr" 
+ngdbuild -intstyle ise -dd _ngo -nt timestamp -uc ucf_ControlUnit.ucf -p xc3s500e-fg320-4 ControlUnit.ngc ControlUnit.ngd  
+map -intstyle ise -p xc3s500e-fg320-4 -cm area -ir off -pr off -c 100 -o ControlUnit_map.ncd ControlUnit.ngd ControlUnit.pcf 
+map -intstyle ise -p xc3s500e-fg320-4 -cm area -ir off -pr off -c 100 -o ControlUnit_map.ncd ControlUnit.ngd ControlUnit.pcf 
+xst -intstyle ise -ifn "E:/14.7/ISE_DS/files/FaceRecoViaPCNN/ControlUnit.xst" -ofn "E:/14.7/ISE_DS/files/FaceRecoViaPCNN/ControlUnit.syr" 
+netgen -intstyle ise -ar Structure -tm ControlUnit -w -dir netgen/synthesis -ofmt vhdl -sim ControlUnit.ngc ControlUnit_synthesis.vhd 
+ngdbuild -intstyle ise -dd _ngo -nt timestamp -uc ucf_ControlUnit.ucf -p xc3s500e-fg320-4 ControlUnit.ngc ControlUnit.ngd  
+map -intstyle ise -p xc3s500e-fg320-4 -cm area -ir off -pr off -c 100 -o ControlUnit_map.ncd ControlUnit.ngd ControlUnit.pcf 
+xst -intstyle ise -ifn "E:/14.7/ISE_DS/files/FaceRecoViaPCNN/ControlUnit.xst" -ofn "E:/14.7/ISE_DS/files/FaceRecoViaPCNN/ControlUnit.syr" 
+netgen -intstyle ise -ar Structure -tm ControlUnit -w -dir netgen/synthesis -ofmt vhdl -sim ControlUnit.ngc ControlUnit_synthesis.vhd 
+ngdbuild -intstyle ise -dd _ngo -nt timestamp -uc ucf_ControlUnit.ucf -p xc3s500e-fg320-4 ControlUnit.ngc ControlUnit.ngd  
+map -intstyle ise -p xc3s500e-fg320-4 -cm area -ir off -pr off -c 100 -o ControlUnit_map.ncd ControlUnit.ngd ControlUnit.pcf 
+xst -intstyle ise -ifn "E:/14.7/ISE_DS/files/FaceRecoViaPCNN/ControlUnit.xst" -ofn "E:/14.7/ISE_DS/files/FaceRecoViaPCNN/ControlUnit.syr" 
+ngdbuild -intstyle ise -dd _ngo -nt timestamp -uc ucf_ControlUnit.ucf -p xc3s500e-fg320-4 ControlUnit.ngc ControlUnit.ngd  
+map -intstyle ise -p xc3s500e-fg320-4 -cm area -ir off -pr off -c 100 -o ControlUnit_map.ncd ControlUnit.ngd ControlUnit.pcf 
+par -w -intstyle ise -ol high -t 1 ControlUnit_map.ncd ControlUnit.ncd ControlUnit.pcf 
+trce -intstyle ise -v 3 -s 4 -n 3 -fastpaths -xml ControlUnit.twx ControlUnit.ncd -o ControlUnit.twr ControlUnit.pcf -ucf ucf_ControlUnit.ucf 
+bitgen -intstyle ise -f ControlUnit.ut ControlUnit.ncd 
+xst -intstyle ise -ifn "E:/14.7/ISE_DS/files/FaceRecoViaPCNN/ControlUnit.xst" -ofn "E:/14.7/ISE_DS/files/FaceRecoViaPCNN/ControlUnit.syr" 
+xst -intstyle ise -ifn "E:/14.7/ISE_DS/files/FaceRecoViaPCNN/ControlUnit.xst" -ofn "E:/14.7/ISE_DS/files/FaceRecoViaPCNN/ControlUnit.syr" 
+netgen -intstyle ise -ar Structure -tm ControlUnit -w -dir netgen/synthesis -ofmt vhdl -sim ControlUnit.ngc ControlUnit_synthesis.vhd 
+xst -intstyle ise -ifn "E:/14.7/ISE_DS/files/FaceRecoViaPCNN/ControlUnit.xst" -ofn "E:/14.7/ISE_DS/files/FaceRecoViaPCNN/ControlUnit.syr" 
+xst -intstyle ise -ifn "E:/14.7/ISE_DS/files/FaceRecoViaPCNN/ControlUnit.xst" -ofn "E:/14.7/ISE_DS/files/FaceRecoViaPCNN/ControlUnit.syr" 
+ngdbuild -intstyle ise -dd _ngo -nt timestamp -uc ucf_ControlUnit.ucf -p xc3s500e-fg320-4 ControlUnit.ngc ControlUnit.ngd  
+map -intstyle ise -p xc3s500e-fg320-4 -cm area -ir off -pr off -c 100 -o ControlUnit_map.ncd ControlUnit.ngd ControlUnit.pcf 
+par -w -intstyle ise -ol high -t 1 ControlUnit_map.ncd ControlUnit.ncd ControlUnit.pcf 
+xst -intstyle ise -ifn "E:/14.7/ISE_DS/files/FaceRecoViaPCNN/ControlUnit.xst" -ofn "E:/14.7/ISE_DS/files/FaceRecoViaPCNN/ControlUnit.syr" 
+xst -intstyle ise -ifn "E:/14.7/ISE_DS/files/FaceRecoViaPCNN/ControlUnit.xst" -ofn "E:/14.7/ISE_DS/files/FaceRecoViaPCNN/ControlUnit.syr" 
+netgen -intstyle ise -ar Structure -tm ControlUnit -w -dir netgen/synthesis -ofmt vhdl -sim ControlUnit.ngc ControlUnit_synthesis.vhd 
+xst -intstyle ise -ifn "E:/14.7/ISE_DS/files/FaceRecoViaPCNN/ControlUnit.xst" -ofn "E:/14.7/ISE_DS/files/FaceRecoViaPCNN/ControlUnit.syr" 
+xst -intstyle ise -ifn "E:/14.7/ISE_DS/files/FaceRecoViaPCNN/ControlUnit.xst" -ofn "E:/14.7/ISE_DS/files/FaceRecoViaPCNN/ControlUnit.syr" 
+ngdbuild -intstyle ise -dd _ngo -nt timestamp -uc ucf_ControlUnit.ucf -p xc3s500e-fg320-4 ControlUnit.ngc ControlUnit.ngd  
+map -intstyle ise -p xc3s500e-fg320-4 -cm area -ir off -pr off -c 100 -o ControlUnit_map.ncd ControlUnit.ngd ControlUnit.pcf 
+par -w -intstyle ise -ol high -t 1 ControlUnit_map.ncd ControlUnit.ncd ControlUnit.pcf 
+trce -intstyle ise -v 3 -s 4 -n 3 -fastpaths -xml ControlUnit.twx ControlUnit.ncd -o ControlUnit.twr ControlUnit.pcf -ucf ucf_ControlUnit.ucf 
+bitgen -intstyle ise -f ControlUnit.ut ControlUnit.ncd 
+xst -intstyle ise -ifn "E:/14.7/ISE_DS/files/FaceRecoViaPCNN/ControlUnit.xst" -ofn "E:/14.7/ISE_DS/files/FaceRecoViaPCNN/ControlUnit.syr" 
+ngdbuild -intstyle ise -dd _ngo -nt timestamp -uc ucf_ControlUnit.ucf -p xc3s500e-fg320-4 ControlUnit.ngc ControlUnit.ngd  
+map -intstyle ise -p xc3s500e-fg320-4 -cm area -ir off -pr off -c 100 -o ControlUnit_map.ncd ControlUnit.ngd ControlUnit.pcf 
+par -w -intstyle ise -ol high -t 1 ControlUnit_map.ncd ControlUnit.ncd ControlUnit.pcf 
+trce -intstyle ise -v 3 -s 4 -n 3 -fastpaths -xml ControlUnit.twx ControlUnit.ncd -o ControlUnit.twr ControlUnit.pcf -ucf ucf_ControlUnit.ucf 
+bitgen -intstyle ise -f ControlUnit.ut ControlUnit.ncd 
+xst -intstyle ise -ifn "E:/14.7/ISE_DS/files/FaceRecoViaPCNN/ControlUnit.xst" -ofn "E:/14.7/ISE_DS/files/FaceRecoViaPCNN/ControlUnit.syr" 
+ngdbuild -intstyle ise -dd _ngo -nt timestamp -uc ucf_ControlUnit.ucf -p xc3s500e-fg320-4 ControlUnit.ngc ControlUnit.ngd  
+map -intstyle ise -p xc3s500e-fg320-4 -cm area -ir off -pr off -c 100 -o ControlUnit_map.ncd ControlUnit.ngd ControlUnit.pcf 
+par -w -intstyle ise -ol high -t 1 ControlUnit_map.ncd ControlUnit.ncd ControlUnit.pcf 
+trce -intstyle ise -v 3 -s 4 -n 3 -fastpaths -xml ControlUnit.twx ControlUnit.ncd -o ControlUnit.twr ControlUnit.pcf -ucf ucf_ControlUnit.ucf 
+bitgen -intstyle ise -f ControlUnit.ut ControlUnit.ncd 
+xst -intstyle ise -ifn "E:/14.7/ISE_DS/files/FaceRecoViaPCNN/ControlUnit.xst" -ofn "E:/14.7/ISE_DS/files/FaceRecoViaPCNN/ControlUnit.syr" 
+ngdbuild -intstyle ise -dd _ngo -nt timestamp -uc ucf_ControlUnit.ucf -p xc3s500e-fg320-4 ControlUnit.ngc ControlUnit.ngd  
+map -intstyle ise -p xc3s500e-fg320-4 -cm area -ir off -pr off -c 100 -o ControlUnit_map.ncd ControlUnit.ngd ControlUnit.pcf 
+par -w -intstyle ise -ol high -t 1 ControlUnit_map.ncd ControlUnit.ncd ControlUnit.pcf 
+trce -intstyle ise -v 3 -s 4 -n 3 -fastpaths -xml ControlUnit.twx ControlUnit.ncd -o ControlUnit.twr ControlUnit.pcf -ucf ucf_ControlUnit.ucf 
+bitgen -intstyle ise -f ControlUnit.ut ControlUnit.ncd 
+xst -intstyle ise -ifn "E:/14.7/ISE_DS/files/FaceRecoViaPCNN/ControlUnit.xst" -ofn "E:/14.7/ISE_DS/files/FaceRecoViaPCNN/ControlUnit.syr" 
+ngdbuild -intstyle ise -dd _ngo -nt timestamp -uc ucf_ControlUnit.ucf -p xc3s500e-fg320-4 ControlUnit.ngc ControlUnit.ngd  
+map -intstyle ise -p xc3s500e-fg320-4 -cm area -ir off -pr off -c 100 -o ControlUnit_map.ncd ControlUnit.ngd ControlUnit.pcf 
+par -w -intstyle ise -ol high -t 1 ControlUnit_map.ncd ControlUnit.ncd ControlUnit.pcf 
+trce -intstyle ise -v 3 -s 4 -n 3 -fastpaths -xml ControlUnit.twx ControlUnit.ncd -o ControlUnit.twr ControlUnit.pcf -ucf ucf_ControlUnit.ucf 
+bitgen -intstyle ise -f ControlUnit.ut ControlUnit.ncd 
+xst -intstyle ise -ifn "E:/14.7/ISE_DS/files/FaceRecoViaPCNN/ControlUnit.xst" -ofn "E:/14.7/ISE_DS/files/FaceRecoViaPCNN/ControlUnit.syr" 
+ngdbuild -intstyle ise -dd _ngo -nt timestamp -uc ucf_ControlUnit.ucf -p xc3s500e-fg320-4 ControlUnit.ngc ControlUnit.ngd  
+map -intstyle ise -p xc3s500e-fg320-4 -cm area -ir off -pr off -c 100 -o ControlUnit_map.ncd ControlUnit.ngd ControlUnit.pcf 
+par -w -intstyle ise -ol high -t 1 ControlUnit_map.ncd ControlUnit.ncd ControlUnit.pcf 
+trce -intstyle ise -v 3 -s 4 -n 3 -fastpaths -xml ControlUnit.twx ControlUnit.ncd -o ControlUnit.twr ControlUnit.pcf -ucf ucf_ControlUnit.ucf 
+bitgen -intstyle ise -f ControlUnit.ut ControlUnit.ncd 
+xst -intstyle ise -ifn "E:/14.7/ISE_DS/files/FaceRecoViaPCNN/ControlUnit.xst" -ofn "E:/14.7/ISE_DS/files/FaceRecoViaPCNN/ControlUnit.syr" 
+ngdbuild -intstyle ise -dd _ngo -nt timestamp -uc ucf_ControlUnit.ucf -p xc3s500e-fg320-4 ControlUnit.ngc ControlUnit.ngd  
+map -intstyle ise -p xc3s500e-fg320-4 -cm area -ir off -pr off -c 100 -o ControlUnit_map.ncd ControlUnit.ngd ControlUnit.pcf 
+par -w -intstyle ise -ol high -t 1 ControlUnit_map.ncd ControlUnit.ncd ControlUnit.pcf 
+trce -intstyle ise -v 3 -s 4 -n 3 -fastpaths -xml ControlUnit.twx ControlUnit.ncd -o ControlUnit.twr ControlUnit.pcf -ucf ucf_ControlUnit.ucf 
+bitgen -intstyle ise -f ControlUnit.ut ControlUnit.ncd 
+xst -intstyle ise -ifn "E:/14.7/ISE_DS/files/FaceRecoViaPCNN/ControlUnit.xst" -ofn "E:/14.7/ISE_DS/files/FaceRecoViaPCNN/ControlUnit.syr" 
+ngdbuild -intstyle ise -dd _ngo -nt timestamp -uc ucf_ControlUnit.ucf -p xc3s500e-fg320-4 ControlUnit.ngc ControlUnit.ngd  
+map -intstyle ise -p xc3s500e-fg320-4 -cm area -ir off -pr off -c 100 -o ControlUnit_map.ncd ControlUnit.ngd ControlUnit.pcf 
+par -w -intstyle ise -ol high -t 1 ControlUnit_map.ncd ControlUnit.ncd ControlUnit.pcf 
+trce -intstyle ise -v 3 -s 4 -n 3 -fastpaths -xml ControlUnit.twx ControlUnit.ncd -o ControlUnit.twr ControlUnit.pcf -ucf ucf_ControlUnit.ucf 
+bitgen -intstyle ise -f ControlUnit.ut ControlUnit.ncd 
+xst -intstyle ise -ifn "E:/14.7/ISE_DS/files/FaceRecoViaPCNN/ControlUnit.xst" -ofn "E:/14.7/ISE_DS/files/FaceRecoViaPCNN/ControlUnit.syr" 
+ngdbuild -intstyle ise -dd _ngo -nt timestamp -uc ucf_ControlUnit.ucf -p xc3s500e-fg320-4 ControlUnit.ngc ControlUnit.ngd  
+map -intstyle ise -p xc3s500e-fg320-4 -cm area -ir off -pr off -c 100 -o ControlUnit_map.ncd ControlUnit.ngd ControlUnit.pcf 
+par -w -intstyle ise -ol high -t 1 ControlUnit_map.ncd ControlUnit.ncd ControlUnit.pcf 
+trce -intstyle ise -v 3 -s 4 -n 3 -fastpaths -xml ControlUnit.twx ControlUnit.ncd -o ControlUnit.twr ControlUnit.pcf -ucf ucf_ControlUnit.ucf 
+bitgen -intstyle ise -f ControlUnit.ut ControlUnit.ncd 

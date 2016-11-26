@@ -1,0 +1,5 @@
+set -tmpdir "E:/14.7/ISE_DS/files/FaceRecoViaPCNN/xst/projnav.tmp"
+set -xsthdpdir "E:/14.7/ISE_DS/files/FaceRecoViaPCNN/xst"
+elaborate
+-ifn inputs.prj
+-ifmt mixed

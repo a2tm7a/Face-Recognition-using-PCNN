@@ -1,0 +1,5 @@
+set -tmpdir "D:/EMBEDDED PROJECT/Hopefully Final/PCNN/FaceRecoViaPCNN/FaceRecoViaPCNN/xst/projnav.tmp"
+set -xsthdpdir "D:/EMBEDDED PROJECT/Hopefully Final/PCNN/FaceRecoViaPCNN/FaceRecoViaPCNN/xst"
+elaborate
+-ifn ControlUnit.prj
+-ifmt mixed

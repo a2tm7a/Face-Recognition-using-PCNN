@@ -1,0 +1,5 @@
+PB inputs inputs "D:/EMBEDDED PROJECT/Hopefully Final/PCNN/FaceRecoViaPCNN/FaceRecoViaPCNN/inputs.vhd" sub00/vhpl02 1480071017
+PH inputs NULL "D:/EMBEDDED PROJECT/Hopefully Final/PCNN/FaceRecoViaPCNN/FaceRecoViaPCNN/inputs.vhd" sub00/vhpl01 1480071016
+EN controlunit NULL "D:/EMBEDDED PROJECT/Hopefully Final/PCNN/FaceRecoViaPCNN/FaceRecoViaPCNN/ControlUnit.vhd" sub00/vhpl03 1480071018
+PH arraypack NULL "D:/EMBEDDED PROJECT/Hopefully Final/PCNN/FaceRecoViaPCNN/FaceRecoViaPCNN/arraypack.vhd" sub00/vhpl00 1480071015
+AR controlunit behavioral "D:/EMBEDDED PROJECT/Hopefully Final/PCNN/FaceRecoViaPCNN/FaceRecoViaPCNN/ControlUnit.vhd" sub00/vhpl04 1480071019
